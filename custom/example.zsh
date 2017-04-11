@@ -8,3 +8,7 @@
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
 #
+
+ ZSH_THEME="half-life"
+
+ cd ~
